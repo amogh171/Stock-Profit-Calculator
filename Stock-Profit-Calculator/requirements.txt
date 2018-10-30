@@ -1,0 +1,9 @@
+ReadMe:
+
+Navigate to the project folder via the terminal
+Run the following commands
+$ export FLASK_APP=stockprofitcalc.py
+$ flask run
+
+Open the link that comes up in the terminal - this is where the calculator is locally hosted
+Enter the required values and click "calculate profit" to check the results
